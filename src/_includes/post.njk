@@ -1,0 +1,24 @@
+---
+layout: base.njk
+bodyClass: page-post
+---
+
+<article class="post container">
+  <header class="post-header">
+    <div class="post-meta">
+      <time datetime="{{ page.date | htmlDateString }}">{{ page.date | dateReadable }}</time>
+    </div>
+    <h1 class="post-title">{{ title }}</h1>
+    {% if description %}
+      <p class="post-description">{{ description }}</p>
+    {% endif %}
+  </header>
+
+  <div class="post-content prose">
+    {{ content | safe }}
+  </div>
+
+  <footer class="post-footer">
+    <a href="/blog/" class="btn btn-outline">&larr; Back to Blog</a>
+  </footer>
+</article>

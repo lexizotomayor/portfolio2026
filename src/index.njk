@@ -1,0 +1,140 @@
+---
+layout: base.njk
+title: Home
+bodyClass: page-home
+---
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="container hero-inner">
+    <div class="hero-content">
+      <p class="hero-eyebrow">Hello, world.</p>
+      <h1 class="hero-headline">Hi, I'm <span class="highlight">Lexi Zotomayor</span></h1>
+      <p class="hero-tagline">{{ site.tagline }}</p>
+      <p class="hero-bio">{{ site.bio }}</p>
+      <div class="hero-cta">
+        <a href="/portfolio/" class="btn btn-primary">View My Work</a>
+        <a href="/blog/" class="btn btn-outline">Read My Blog</a>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="hero-avatar">
+        <span class="hero-initials">LZ</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- About Section -->
+<section class="section about" id="about">
+  <div class="container">
+    <div class="section-label">About</div>
+    <div class="about-grid">
+      <div class="about-text">
+        <h2 class="section-title">Crafting digital experiences with purpose</h2>
+        <p>I'm a designer and developer based wherever curiosity takes me. I work at the intersection of aesthetics and engineering — building things that are as functional as they are beautiful.</p>
+        <p>When I'm not pushing pixels or writing code, you'll find me deep in a book, exploring new places, or experimenting in the kitchen.</p>
+        <a href="/portfolio/" class="btn btn-outline">See My Work &rarr;</a>
+      </div>
+      <div class="about-image-wrap">
+        <div class="about-image-placeholder">
+          <span>LZ</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Featured Work Section -->
+<section class="section featured-work" id="work">
+  <div class="container">
+    <div class="section-header">
+      <div class="section-label">Portfolio</div>
+      <h2 class="section-title">Featured Work</h2>
+      <a href="/portfolio/" class="section-link">View all &rarr;</a>
+    </div>
+
+    <div class="cards-grid">
+      {% set workItems = collections.work | reverse %}
+      {% for item in workItems | limit(3) %}
+        <article class="card work-card">
+          {% if item.data.image %}
+            <div class="card-image">
+              <img src="{{ item.data.image }}" alt="{{ item.data.title }}" />
+            </div>
+          {% else %}
+            <div class="card-image-placeholder">
+              <span>{{ item.data.title | truncate(1, true, "") }}</span>
+            </div>
+          {% endif %}
+          <div class="card-body">
+            {% if item.data.category %}
+              <span class="card-category">{{ item.data.category }}</span>
+            {% endif %}
+            <h3 class="card-title">
+              <a href="{{ item.url }}">{{ item.data.title }}</a>
+            </h3>
+            {% if item.data.description %}
+              <p class="card-description">{{ item.data.description }}</p>
+            {% endif %}
+            <a href="{{ item.url }}" class="card-link">View Project &rarr;</a>
+          </div>
+        </article>
+      {% else %}
+        <p class="empty-state">No work items yet. <a href="/admin/">Add some via the CMS</a>.</p>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- Latest Posts Section -->
+<section class="section latest-posts" id="blog">
+  <div class="container">
+    <div class="section-header">
+      <div class="section-label">Blog</div>
+      <h2 class="section-title">Latest Writing</h2>
+      <a href="/blog/" class="section-link">Read all &rarr;</a>
+    </div>
+
+    <div class="post-list">
+      {% set posts = collections.posts | reverse %}
+      {% for post in posts | limit(3) %}
+        <article class="post-list-item">
+          <div class="post-list-meta">
+            <time datetime="{{ post.date | htmlDateString }}">{{ post.date | dateReadable }}</time>
+          </div>
+          <div class="post-list-content">
+            <h3 class="post-list-title">
+              <a href="{{ post.url }}">{{ post.data.title }}</a>
+            </h3>
+            {% if post.data.description %}
+              <p class="post-list-excerpt">{{ post.data.description }}</p>
+            {% endif %}
+          </div>
+          <a href="{{ post.url }}" class="post-list-arrow" aria-label="Read {{ post.data.title }}">&rarr;</a>
+        </article>
+      {% else %}
+        <p class="empty-state">No posts yet. <a href="/admin/">Write one via the CMS</a>.</p>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- Contact Section -->
+<section class="section contact" id="contact">
+  <div class="container">
+    <div class="contact-inner">
+      <div class="section-label">Contact</div>
+      <h2 class="section-title">Let's work together</h2>
+      <p class="contact-text">Have a project in mind or just want to say hello? I'd love to hear from you.</p>
+      <a href="mailto:{{ site.email }}" class="btn btn-primary btn-large">Send me an email &rarr;</a>
+      <div class="contact-social">
+        <a href="{{ site.social.github }}" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <span class="divider">/</span>
+        <a href="{{ site.social.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <span class="divider">/</span>
+        <a href="{{ site.social.twitter }}" target="_blank" rel="noopener noreferrer">Twitter</a>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,45 @@
+---
+layout: base.njk
+bodyClass: page-work
+---
+
+<article class="work-item container">
+  <header class="work-header">
+    {% if image %}
+      <div class="work-hero-image">
+        <img src="{{ image }}" alt="{{ title }}" />
+      </div>
+    {% else %}
+      <div class="work-hero-placeholder">
+        <span>{{ title | truncate(1, true, "") }}</span>
+      </div>
+    {% endif %}
+
+    <div class="work-header-content">
+      <a href="/portfolio/" class="back-link">&larr; All Work</a>
+      <h1 class="work-title">{{ title }}</h1>
+
+      {% if category %}
+        <span class="work-category">{{ category }}</span>
+      {% endif %}
+
+      {% if description %}
+        <p class="work-description">{{ description }}</p>
+      {% endif %}
+
+      {% if projectUrl %}
+        <a href="{{ projectUrl }}" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
+          View Live Project &rarr;
+        </a>
+      {% endif %}
+    </div>
+  </header>
+
+  <div class="work-content prose">
+    {{ content | safe }}
+  </div>
+
+  <footer class="work-footer">
+    <a href="/portfolio/" class="btn btn-outline">&larr; Back to Portfolio</a>
+  </footer>
+</article>

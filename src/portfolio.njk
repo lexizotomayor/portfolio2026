@@ -1,0 +1,50 @@
+---
+layout: base.njk
+title: Portfolio
+bodyClass: page-portfolio
+description: A collection of design and development projects by Lexi Zotomayor.
+---
+
+<div class="page-hero container">
+  <div class="section-label">Portfolio</div>
+  <h1 class="page-title">My Work</h1>
+  <p class="page-subtitle">A selection of projects spanning design, development, and everything in between.</p>
+</div>
+
+<section class="section">
+  <div class="container">
+    <div class="cards-grid cards-grid--large">
+      {% set workItems = collections.work | reverse %}
+      {% for item in workItems %}
+        <article class="card work-card">
+          {% if item.data.image %}
+            <div class="card-image">
+              <img src="{{ item.data.image }}" alt="{{ item.data.title }}" />
+            </div>
+          {% else %}
+            <div class="card-image-placeholder">
+              <span>{{ item.data.title | truncate(1, true, "") }}</span>
+            </div>
+          {% endif %}
+          <div class="card-body">
+            {% if item.data.category %}
+              <span class="card-category">{{ item.data.category }}</span>
+            {% endif %}
+            <h2 class="card-title">
+              <a href="{{ item.url }}">{{ item.data.title }}</a>
+            </h2>
+            {% if item.data.description %}
+              <p class="card-description">{{ item.data.description }}</p>
+            {% endif %}
+            <a href="{{ item.url }}" class="card-link">View Project &rarr;</a>
+          </div>
+        </article>
+      {% else %}
+        <div class="empty-state-block">
+          <p>No projects yet.</p>
+          <a href="/admin/" class="btn btn-outline">Add one via the CMS</a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

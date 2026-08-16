@@ -4,14 +4,18 @@ nav: home
 title: Lexi Zotomayor
 ---
 <section class="hero">
+  <div class="hero-portrait-wrap">
+    <img class="hero-portrait" src="/img/uploads/avz-profile-01-transparent.png" alt="Portrait of Lexi">
+  </div>
   <div class="hero-text">
     <div class="hero-greeting">
       {% for line in home.heroGreeting %}<div>{{ line }}</div>{% endfor %}
     </div>
-    <div class="hero-caption">{{ home.heroCaption }}</div>
-    <div class="hero-script">{{ home.heroScript }}</div>
+    <div class="hero-caption-group">
+      <div class="hero-caption">{{ home.heroCaption }}</div>
+      <div class="hero-script">{{ home.heroScript }}</div>
+    </div>
   </div>
-  <img class="hero-portrait" src="/img/uploads/avz-profile-01-transparent.png" alt="Portrait of Lexi">
 </section>
 
 <section class="work-history">

@@ -9,13 +9,14 @@ permalink: /podcasts/
 </section>
 <section class="list">
   {% for ep in collections.episodes %}
-  <a class="list-item podcast" href="{{ ep.url }}">
-    {% if ep.data.cover %}<img class="ep-cover" src="{{ ep.data.cover }}" alt="">{% endif %}
+  <div class="list-item podcast">
+    {% if ep.data.cover %}<img class="ep-cover" src="{{ ep.data.cover }}" alt="">{% else %}<div class="ep-cover"></div>{% endif %}
     <div>
       <div class="ep-meta">EPISODE {{ ep.data.number }} &middot; {{ ep.data.length }}</div>
       <div class="list-title">{{ ep.data.title }}</div>
       <div class="list-excerpt">{{ ep.data.description }}</div>
     </div>
-  </a>
+    <a class="btn podcast-listen" href="{{ ep.data.link or ep.url }}">&#9654; Listen</a>
+  </div>
   {% endfor %}
 </section>

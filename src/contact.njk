@@ -1,48 +1,24 @@
 ---
 layout: base.njk
+nav: contact
 title: Contact
-bodyClass: page-contact
-description: Get in touch with Lexi Zotomayor.
+permalink: /contact/
 ---
-
-<div class="page-hero container">
-  <div class="section-label">Contact</div>
-  <h1 class="page-title">Get in Touch</h1>
-  <p class="page-subtitle">Have a project in mind, a question, or just want to say hello?</p>
-</div>
-
-<section class="section">
-  <div class="container contact-page">
-    <div class="contact-grid">
-      <div class="contact-info">
-        <h2>Let's talk</h2>
-        <p>I'm always open to hearing about interesting projects, collaborations, or new opportunities. Don't hesitate to reach out.</p>
-
-        <div class="contact-methods">
-          <div class="contact-method">
-            <span class="contact-method-label">Email</span>
-            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-          </div>
-          <div class="contact-method">
-            <span class="contact-method-label">GitHub</span>
-            <a href="{{ site.social.github }}" target="_blank" rel="noopener noreferrer">@lexizotomayor</a>
-          </div>
-          <div class="contact-method">
-            <span class="contact-method-label">LinkedIn</span>
-            <a href="{{ site.social.linkedin }}" target="_blank" rel="noopener noreferrer">Lexi Zotomayor</a>
-          </div>
-          <div class="contact-method">
-            <span class="contact-method-label">Twitter</span>
-            <a href="{{ site.social.twitter }}" target="_blank" rel="noopener noreferrer">@lexizotomayor</a>
-          </div>
-        </div>
-      </div>
-
-      <div class="contact-cta-box">
-        <p class="contact-cta-label">Ready to start a conversation?</p>
-        <a href="mailto:{{ site.email }}" class="btn btn-primary btn-large">Send me an email &rarr;</a>
-        <p class="contact-response-note">I typically respond within 1–2 business days.</p>
-      </div>
-    </div>
+<section class="page-header teal">
+  <h1>Get in touch</h1>
+  <p>{{ home.contactPageIntro }} Feel free to send me an e-mail at
+    <a href="mailto:{{ site.email }}">{{ site.email }}</a>.</p>
+</section>
+<section class="contact-grid">
+  <div>
+    <h2>Let's talk</h2>
+    <div class="contact-method"><div class="label">EMAIL</div><a href="mailto:{{ site.email }}">{{ site.email }}</a></div>
+    <div class="contact-method"><div class="label">ROLES</div><div>{{ site.tagline }}</div></div>
   </div>
+  <form class="contact-form">
+    <label>Name<input type="text" name="name"></label>
+    <label>Email<input type="email" name="email"></label>
+    <label>Message<textarea name="message" rows="4"></textarea></label>
+    <button type="submit" class="btn">Send message &rarr;</button>
+  </form>
 </section>

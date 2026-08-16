@@ -6,6 +6,28 @@ media_folder: src/img/uploads
 public_folder: /img/uploads
 
 collections:
+  - name: settings
+    label: Site Content
+    files:
+      - name: home
+        label: Home Page
+        file: src/_data/home.json
+        fields:
+          - { label: "Hero Greeting Lines", name: "heroGreeting", widget: "list" }
+          - { label: "Hero Script Line", name: "heroScript", widget: "string" }
+          - { label: "Hero Caption", name: "heroCaption", widget: "string" }
+          - { label: "Work History Heading", name: "workHistoryHeading", widget: "string" }
+          - { label: "Work History Lines", name: "workHistoryLines", widget: "list" }
+          - { label: "Bio Paragraph", name: "bio", widget: "text" }
+          - label: "Skills"
+            name: "skills"
+            widget: "list"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Description", name: "description", widget: "text" }
+          - { label: "Contact CTA Paragraph (home)", name: "contactIntro", widget: "text" }
+          - { label: "Contact Page Intro", name: "contactPageIntro", widget: "text" }
+
   - name: blog
     label: Blog Posts
     folder: src/blog
@@ -15,7 +37,22 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
+      - { label: "Cover Image", name: "image", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: podcasts
+    label: Podcast Episodes
+    folder: src/podcasts
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Episode Number", name: "number", widget: "number" }
+      - { label: "Length", name: "length", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Listen Link", name: "link", widget: "string" }
+      - { label: "Cover Image", name: "cover", widget: "image", required: false }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
 
   - name: portfolio
     label: Portfolio Items

@@ -1,0 +1,9 @@
+---
+layout: base.njk
+---
+<article class="post">
+  <div class="post-category">Podcasts</div>
+  <h1 class="post-title">{{ title }}</h1>
+  <div class="prose">{{ content | safe }}</div>
+  {% if link %}<a class="btn" href="{{ link }}">Listen &rarr;</a>{% endif %}
+</article>

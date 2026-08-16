@@ -1,0 +1,35 @@
+{
+  "heroGreeting": [
+    "bonjour! hola!",
+    "mabuhay!"
+  ],
+  "heroScript": "je suis/soy lexi!",
+  "heroCaption": "JOURNALIST / WEB DESIGNER / NURSING ASSISTANT",
+  "workHistoryHeading": "Work History",
+  "workHistoryLines": [
+    "8 years in publishing",
+    "20+ years as print journalist.",
+    "10 years as nursing assistant"
+  ],
+  "bio": "I left a modest publishing career in the Philippines where I worked as proofreader, copyeditor, and research manager for different publishing entities before Saipan beckoned, where I worked as a journalist full time. Then I found myself warming up to the healthcare industry as I transitioned into becoming a nursing assistant. And the adventure continues.",
+  "skills": [
+    {
+      "title": "CLINICAL SKILLS",
+      "description": "Ten years of hands-on patient care as a nursing assistant, grounded in empathy and steady hands."
+    },
+    {
+      "title": "WRITING & EDITING",
+      "description": "Two decades of reporting, proofreading, and copyediting across print newsrooms and publishers."
+    },
+    {
+      "title": "WEB DESIGN",
+      "description": "Building clean, personal sites and layouts that tell a clear story, like this one."
+    },
+    {
+      "title": "CONTENT STRATEGY",
+      "description": "Shaping a publication's voice, from research and structure to the final published page."
+    }
+  ],
+  "contactIntro": "What's on your mind? Drop a line whether it's a project inquiry, a thoughtful critique, a job offer, or just to say hi.",
+  "contactPageIntro": "The door is open. Leave a message. Say hello in any language. I welcome any job offers as well anywhere in the world. I am willing to relocate. Would you like to collaborate on a project? Feel free to send me an e-mail."
+}

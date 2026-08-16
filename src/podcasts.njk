@@ -1,0 +1,21 @@
+---
+layout: base.njk
+nav: podcasts
+title: Podcasts
+permalink: /podcasts/
+---
+<section class="page-header peach"><div class="script">tune in!</div><h1>Podcasts</h1>
+  <p>Conversations on journalism, caregiving, and everything in between &mdash; recorded between newsroom deadlines and hospital shifts.</p>
+</section>
+<section class="list">
+  {% for ep in collections.episodes %}
+  <a class="list-item podcast" href="{{ ep.url }}">
+    {% if ep.data.cover %}<img class="ep-cover" src="{{ ep.data.cover }}" alt="">{% endif %}
+    <div>
+      <div class="ep-meta">EPISODE {{ ep.data.number }} &middot; {{ ep.data.length }}</div>
+      <div class="list-title">{{ ep.data.title }}</div>
+      <div class="list-excerpt">{{ ep.data.description }}</div>
+    </div>
+  </a>
+  {% endfor %}
+</section>

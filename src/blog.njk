@@ -1,41 +1,18 @@
 ---
 layout: base.njk
+nav: blog
 title: Blog
-bodyClass: page-blog
-description: Thoughts on design, development, and creativity by Lexi Zotomayor.
+permalink: /blog/
 ---
-
-<div class="page-hero container">
-  <div class="section-label">Blog</div>
-  <h1 class="page-title">Writing</h1>
-  <p class="page-subtitle">Thoughts on design, development, and the creative process.</p>
-</div>
-
-<section class="section">
-  <div class="container">
-    <div class="post-list post-list--full">
-      {% set posts = collections.posts | reverse %}
-      {% for post in posts %}
-        <article class="post-list-item">
-          <div class="post-list-meta">
-            <time datetime="{{ post.date | htmlDateString }}">{{ post.date | dateReadable }}</time>
-          </div>
-          <div class="post-list-content">
-            <h2 class="post-list-title">
-              <a href="{{ post.url }}">{{ post.data.title }}</a>
-            </h2>
-            {% if post.data.description %}
-              <p class="post-list-excerpt">{{ post.data.description }}</p>
-            {% endif %}
-          </div>
-          <a href="{{ post.url }}" class="post-list-arrow" aria-label="Read {{ post.data.title }}">&rarr;</a>
-        </article>
-      {% else %}
-        <div class="empty-state-block">
-          <p>No posts yet.</p>
-          <a href="/admin/" class="btn btn-outline">Write one via the CMS</a>
-        </div>
-      {% endfor %}
+<section class="page-header teal"><div class="script">read on!</div><h1>Blog</h1></section>
+<section class="list">
+  {% for post in collections.posts | reverse %}
+  <a class="list-item" href="{{ post.url }}">
+    <time>{{ post.data.date | dateReadable }}</time>
+    <div>
+      <div class="list-title">{{ post.data.title }}</div>
+      <div class="list-excerpt">{{ post.data.description }}</div>
     </div>
-  </div>
+  </a>
+  {% endfor %}
 </section>

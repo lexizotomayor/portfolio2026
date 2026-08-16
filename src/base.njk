@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title or site.name }}</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="logo" href="/">
+      <img src="/img/uploads/z%20logo%20transparent.png" alt="Z logo" class="logo-mark">
+      <span class="logo-word">zotomayor.com</span>
+    </a>
+    <nav class="nav">
+      <a href="/blog/" {% if nav == "blog" %}class="active"{% endif %}>BLOG</a>
+      <span class="divider">|</span>
+      <a href="/contact/" {% if nav == "contact" %}class="active"{% endif %}>CONTACT</a>
+      <span class="divider">|</span>
+      <a href="/podcasts/" {% if nav == "podcasts" %}class="active"{% endif %}>PODCASTS</a>
+    </nav>
+  </header>
+
+  <main>{{ content | safe }}</main>
+
+  <footer class="site-footer">
+    &copy; {{ year }} zotomayor.com &mdash; journalist, web designer, nursing assistant
+  </footer>
+</body>
+</html>

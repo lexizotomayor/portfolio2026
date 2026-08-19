@@ -1,8 +1,9 @@
 ---
-title: "Hello, World — Starting Fresh"
+title: Hello, World — Starting Fresh
 date: 2026-01-15
 description: "A new beginning: why I built this site and what I hope to share here."
 permalink: /blog/hello-world/
+image: /img/uploads/blog-img-01.png
 ---
 
 Every site has to start somewhere, and this is mine.

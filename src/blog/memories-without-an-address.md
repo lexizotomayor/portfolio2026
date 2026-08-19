@@ -20,7 +20,7 @@ I thought of how typhoons and time seem to conspire against island geography: *
 
 Her next reply nailed it with terrifying precision: *"So yung memory natin about Saipan is not just the place, but the people we made life with."*
 
-She was right, of course, which is the most inconvenient thing a friend can be at midnight. For both of us, the Saipan we inhabit in our heads has been quietly decommissioned. The old hangouts where we burned through our twenties between deadlines have been leveled, shuttered, or turned into something deeply unfamiliar. The people whose faces once gave those locations a street name and a reason to visit have either scattered across the globe or died.
+She was right, of course, which is the most inconvenient thing a friend can be at midnight. For both of us, the Saipan we inhabit in our heads has been quietly decommissioned. The old hangouts where we burned through our thirties between deadlines have been leveled, shuttered, or turned into something deeply unfamiliar. The people whose faces once gave those locations a street name and a reason to visit have either scattered across the globe or died.
 
 We are left with a drawer full of memories that no longer have a physical address.
 

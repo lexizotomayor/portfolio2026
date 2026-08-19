@@ -1,6 +1,6 @@
 ---
 title: Memories Without an Address
-date: 2026-08-18T23:18:00.000-04:00
+date: 2026-08-18T23:26:00.000-04:00
 description: Memories Without an Address is a short reflection on a late-night
   WhatsApp chat between two former reporters looking back at Saipan. It’s a
   story about vanished hangouts, scattered friends, and the quiet realization
@@ -29,3 +29,5 @@ It reminded me of that line from Keane’s *Somewhere Only We Know*—the searc
 Carl Jung had a rather sharp observation about this. He suggested that memory isn't a museum where you go look at old statues; it’s an internal projection. We don't just live in a town—we attach our inner lives onto its concrete, its coral, and its people. When those people leave and the physical anchors crumble, the hook snaps. The memory loses its location. It floats free inside your head, beautiful, slightly absurd, and entirely unmoored from reality. The "place" was never really the soil; it was just the temporary container for a very specific chapter of our lives. Once the container breaks, you’re left holding a myth.
 
 You can't buy a round-trip ticket to a location that only exists in the past. The Saipan of our reporting days has lost its postal code, surviving now only where Jung said it would: in the quiet, fading corridors of the mind, glowing on a phone screen between two old friends who still remember where the stories used to live.
+
+![Different faces of islanders](/img/uploads/memory1.png "Memories of people we knew")

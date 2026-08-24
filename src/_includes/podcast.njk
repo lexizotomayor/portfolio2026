@@ -1,9 +1,33 @@
 ---
 layout: base.njk
+navActive: /podcasts/
 ---
-<article class="post">
-  <div class="post-category">Podcasts</div>
-  <h1 class="post-title">{{ title }}</h1>
+<article>
+  <p class="article__back"><a href="/podcasts/">&larr; podcasts</a></p>
+
+  {% if cover %}
+  <figure class="article__hero">
+    <img src="{{ cover }}" alt="{{ title }}">
+  </figure>
+  {% endif %}
+
+  <div class="rule rule--heavy article__rule" aria-hidden="true"></div>
+
+  <div class="article__meta">
+    <div class="article__stamp">
+      <span class="article__ago">episode {{ number }}</span>
+      {% if length %}<span class="article__read">{{ length }}</span>{% endif %}
+    </div>
+    <div>
+      <h1 class="article__title">{{ title }}</h1>
+      {% if description %}<p class="article__standfirst">{{ description }}</p>{% endif %}
+      {% if link %}<p class="article__cta"><a class="btn" href="{{ link }}"><span aria-hidden="true">&#9654;</span> listen</a></p>{% endif %}
+    </div>
+  </div>
+
   <div class="prose">{{ content | safe }}</div>
-  {% if link %}<a class="btn" href="{{ link }}">Listen &rarr;</a>{% endif %}
+
+  <div class="pagefoot">
+    <a class="btn" href="/podcasts/"><span aria-hidden="true">&larr;</span> all episodes</a>
+  </div>
 </article>

@@ -1,0 +1,11 @@
+---
+layout: base.njk
+---
+<header class="pagehead">
+  <div class="pagehead__inner">
+    <p class="eyebrow"><span class="eyebrow__bar" aria-hidden="true"></span><span class="eyebrow__label">{{ eyebrow }}</span></p>
+    <h1>{{ headline | safe if headline else title }}</h1>
+    {% if standfirst %}<p class="pagehead__standfirst">{{ standfirst }}</p>{% endif %}
+  </div>
+</header>
+{{ content | safe }}

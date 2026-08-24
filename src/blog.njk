@@ -1,18 +1,26 @@
 ---
-layout: base.njk
-nav: blog
-title: Blog
+layout: page.njk
+title: Blog & Articles
 permalink: /blog/
+navActive: /blog/
+eyebrow: 04 — dispatches
+headline: blog<br><em>&amp; articles</em>
+standfirst: Dispatches on reporting in the Northern Mariana Islands, caring for clients at home, and everything learned in transition.
+eleventyExcludeFromCollections: true
 ---
-<section class="page-header teal"><div class="script">read on!</div><h1>Blog</h1></section>
-<section class="list">
+<div class="postlist">
   {% for post in collections.posts | reverse %}
-  <a class="list-item" href="{{ post.url }}">
-    <time>{{ post.data.date | dateReadable }}</time>
+  <article class="postitem">
+    <p class="postitem__when"><time datetime="{{ post.date | htmlDateString }}" title="{{ post.date | dateReadable }}">{{ post.date | timeAgo }}</time></p>
     <div>
-      <div class="list-title">{{ post.data.title }}</div>
-      <div class="list-excerpt">{{ post.data.description }}</div>
+      <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+      {% if post.data.description %}<p>{{ post.data.description }}</p>{% endif %}
     </div>
-  </a>
+  </article>
   {% endfor %}
-</section>
+</div>
+
+<div class="pagefoot">
+  <a class="btn" href="/podcasts/">podcasts <span aria-hidden="true">&rarr;</span></a>
+  <a class="backlink" href="/">&larr; back home</a>
+</div>

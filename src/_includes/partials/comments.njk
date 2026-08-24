@@ -1,0 +1,39 @@
+{#
+  Responses are collected by Netlify Forms and published by hand.
+  1. The form below posts to Netlify (Forms -> "responses" in the dashboard).
+  2. To publish one, add it to the post's front matter:
+       responses:
+         - name: Zaldy
+           date: 2026-08-24
+           text: I remember that afternoon.
+  See README, "Comments", for the optional CMS field.
+#}
+<section class="comments" id="responses">
+  <div class="rule rule--heavy" aria-hidden="true"></div>
+  <div class="comments__head">
+    <span class="comments__title">responses</span>
+    {% set n = responses | length if responses else 0 %}
+    <span class="comments__count">{{ n }} {{ "response" if n == 1 else "responses" }}</span>
+  </div>
+
+  {% if n == 0 %}
+    <p class="comments__empty">No responses yet. Tell me what this brought back for you.</p>
+  {% else %}
+    {% for c in responses %}
+    <article class="comment">
+      <p class="comment__who">{{ c.name }} <span class="comment__when">{{ c.date | dateReadable }}</span></p>
+      <p>{{ c.text }}</p>
+    </article>
+    {% endfor %}
+  {% endif %}
+
+  <form class="cform" name="responses" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+    <input type="hidden" name="post" value="{{ page.url }}">
+    <p class="cform__hp"><label>Leave this blank <input name="bot-field"></label></p>
+    <label for="c-name">name</label>
+    <input id="c-name" name="name" type="text" placeholder="Your name" autocomplete="name">
+    <label for="c-text">response</label>
+    <textarea id="c-text" name="text" rows="4" placeholder="Write your response" required></textarea>
+    <button class="btn" type="submit">post response</button>
+  </form>
+</section>

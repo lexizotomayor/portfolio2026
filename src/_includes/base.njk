@@ -1,40 +1,25 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ title or site.name }}</title>
+<title>{% if title %}{{ title }} &mdash; {% endif %}{{ site.name }}</title>
+<meta name="description" content="{{ description if description else site.tagline }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/css/style.css">
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
-  <header class="site-header">
-    <a class="logo" href="/">
-      <img src="/img/uploads/z%20logo%20transparent.png" alt="Z logo" class="logo-mark">
-      <span class="logo-word">zotomayor.com</span>
-    </a>
-    <nav class="nav">
-      <a href="/blog/" {% if nav == "blog" %}class="active"{% endif %}>BLOG</a>
-      <span class="divider">|</span>
-      <a href="/contact/" {% if nav == "contact" %}class="active"{% endif %}>CONTACT</a>
-      <span class="divider">|</span>
-      <a href="/podcasts/" {% if nav == "podcasts" %}class="active"{% endif %}>PODCASTS</a>
-    </nav>
-  </header>
-
-  <main>{{ content | safe }}</main>
-
-  <footer class="site-footer">
-    &copy; {{ year }} Alexie Zotomayor &mdash; ALL RIGHTS RESERVED.
-  </footer>
-  <script>
-    if (window.netlifyIdentity) {
-      window.netlifyIdentity.on("init", user => {
-        if (!user) {
-          window.netlifyIdentity.on("login", () => { document.location.href = "/admin/"; });
-        }
-      });
-    }
-  </script>
+<a class="skip" href="#main">Skip to content</a>
+<div class="pad">
+  <div class="shell">
+    {% if homeRail %}{% include "partials/home-rail.njk" %}{% else %}{% include "partials/rail.njk" %}{% endif %}
+    <div id="main">
+      {{ content | safe }}
+      {% include "partials/footer.njk" %}
+    </div>
+  </div>
+</div>
 </body>
 </html>

@@ -1,23 +1,30 @@
 ---
-layout: base.njk
-nav: contact
+layout: page.njk
 title: Contact
 permalink: /contact/
+navActive: /contact/
+eyebrow: 03 — get in touch
+headline: what's on<br><em>your mind?</em>
+eleventyExcludeFromCollections: true
+# The layout reads "standfirst" from page DATA, so it must be declared here —
+# a {% set %} in the body below would never reach page.njk. eleventyComputed
+# keeps it sourced from home.json, so it stays CMS-editable.
+eleventyComputed:
+  standfirst: "{{ home.contactPageIntro }}"
 ---
-<section class="page-header teal">
-  <h1>Get in touch</h1>
-  <p>{{ home.contactPageIntro }} 
-    <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-</section>
-<section class="contact-grid">
-  <div class="contact-intro">
-    <h2>Let's talk</h2>
-    <img class="contact-intro-img" src="/img/uploads/tin-can-telephone.jpg" alt="Illustration of two children talking on a tin-can telephone">
-  </div>
-  <form class="contact-form">
-    <label>Name<input type="text" name="name"></label>
-    <label>Email<input type="email" name="email"></label>
-    <label>Message<textarea name="message" rows="4"></textarea></label>
-    <button type="submit" class="btn">Send message &rarr;</button>
+<div class="contactpage">
+  <form class="cform" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+    <p class="cform__hp"><label>Leave this blank <input name="bot-field"></label></p>
+    <label for="f-name">name</label>
+    <input id="f-name" name="name" type="text" autocomplete="name" required>
+    <label for="f-email">email</label>
+    <input id="f-email" name="email" type="email" autocomplete="email" required>
+    <label for="f-msg">message</label>
+    <textarea id="f-msg" name="message" rows="6" required></textarea>
+    <button class="btn" type="submit">send</button>
   </form>
-</section>
+</div>
+
+<div class="pagefoot">
+  <a class="backlink" href="/">&larr; back home</a>
+</div>

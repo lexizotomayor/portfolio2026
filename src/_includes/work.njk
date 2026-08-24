@@ -1,45 +1,33 @@
 ---
 layout: base.njk
-bodyClass: page-work
+navActive: /portfolio/
 ---
+<article>
+  <p class="article__back"><a href="/portfolio/">&larr; portfolio</a></p>
 
-<article class="work-item container">
-  <header class="work-header">
-    {% if image %}
-      <div class="work-hero-image">
-        <img src="{{ image }}" alt="{{ title }}" />
-      </div>
-    {% else %}
-      <div class="work-hero-placeholder">
-        <span>{{ title | truncate(1, true, "") }}</span>
-      </div>
-    {% endif %}
+  {% if image %}
+  <figure class="article__hero">
+    <img src="{{ image }}" alt="{{ title }}">
+  </figure>
+  {% endif %}
 
-    <div class="work-header-content">
-      <a href="/portfolio/" class="back-link">&larr; All Work</a>
-      <h1 class="work-title">{{ title }}</h1>
+  <div class="rule rule--heavy article__rule" aria-hidden="true"></div>
 
-      {% if category %}
-        <span class="work-category">{{ category }}</span>
-      {% endif %}
-
-      {% if description %}
-        <p class="work-description">{{ description }}</p>
-      {% endif %}
-
-      {% if projectUrl %}
-        <a href="{{ projectUrl }}" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
-          View Live Project &rarr;
-        </a>
-      {% endif %}
+  <div class="article__meta">
+    <div class="article__stamp">
+      {% if category %}<span class="article__ago">{{ category }}</span>{% endif %}
+      <time class="article__date" datetime="{{ page.date | htmlDateString }}">{{ page.date | dateReadable }}</time>
     </div>
-  </header>
-
-  <div class="work-content prose">
-    {{ content | safe }}
+    <div>
+      <h1 class="article__title">{{ title }}</h1>
+      {% if description %}<p class="article__standfirst">{{ description }}</p>{% endif %}
+      {% if projectUrl %}<p class="article__cta"><a class="btn" href="{{ projectUrl }}" rel="noopener">view project <span aria-hidden="true">&rarr;</span></a></p>{% endif %}
+    </div>
   </div>
 
-  <footer class="work-footer">
-    <a href="/portfolio/" class="btn btn-outline">&larr; Back to Portfolio</a>
-  </footer>
+  <div class="prose">{{ content | safe }}</div>
+
+  <div class="pagefoot">
+    <a class="btn" href="/portfolio/"><span aria-hidden="true">&larr;</span> all work</a>
+  </div>
 </article>

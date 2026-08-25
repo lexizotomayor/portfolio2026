@@ -1,0 +1,19 @@
+{% set navItems = [
+  { num: "01", label: "work",      url: "/#work" },
+  { num: "02", label: "skills",    url: "/#skills" },
+  { num: "03", label: "contact",   url: "/contact/" },
+  { num: "04", label: "blog",      url: "/blog/" },
+  { num: "05", label: "podcasts",  url: "/podcasts/" },
+  { num: "06", label: "portfolio", url: "/portfolio/" }
+] %}
+<aside class="rail">
+  <div class="rail__inner">
+    <a class="brand" href="/"><span class="brand__name">zotomayor</span><span class="brand__tld">.com</span></a>
+    <div class="rule rule--heavy rail__rule" aria-hidden="true"></div>
+    <nav class="railnav" aria-label="Main">
+      {% for item in navItems %}
+      <a href="{{ item.url }}"{% if item.url == navActive %} aria-current="page"{% endif %}><span class="num">{{ item.num }}</span>{{ item.label }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</aside>

@@ -1,22 +1,29 @@
 ---
-layout: base.njk
-nav: podcasts
+layout: page.njk
 title: Podcasts
 permalink: /podcasts/
+navActive: /podcasts/
+eyebrow: 05 — tune in
+headline: podcasts<br><em>tune in</em>
+standfirst: Conversations on journalism, caregiving, and everything in between — recorded between newsroom deadlines and hospital shifts.
+eleventyExcludeFromCollections: true
 ---
-<section class="page-header peach"><div class="script">tune in!</div><h1>Podcasts</h1>
-  <p>Conversations on journalism, caregiving, and everything in between &mdash; recorded between newsroom deadlines and hospital shifts.</p>
-</section>
-<section class="list">
-  {% for ep in collections.episodes %}
-  <div class="list-item podcast">
-    {% if ep.data.cover %}<img class="ep-cover" src="{{ ep.data.cover }}" alt="">{% else %}<div class="ep-cover"></div>{% endif %}
-    <div>
-      <div class="ep-meta">EPISODE {{ ep.data.number }} &middot; {{ ep.data.length }}</div>
-      <div class="list-title">{{ ep.data.title }}</div>
-      <div class="list-excerpt">{{ ep.data.description }}</div>
+<div class="eps">
+  {# Episode files carry "number" but no "date", so sort on number explicitly. #}
+  {% for ep in collections.episodes | sort(attribute="data.number") %}
+  <article class="ep">
+    <div class="ep__meta">
+      <span class="ep__num">episode {{ ep.data.number }}</span>
+      {% if ep.data.length %}<span class="ep__len">{{ ep.data.length }}</span>{% endif %}
     </div>
-    <a class="btn podcast-listen" href="{{ ep.data.link or ep.url }}">&#9654; Listen</a>
-  </div>
+    <h2><a href="{{ ep.url }}">{{ ep.data.title }}</a></h2>
+    {% if ep.data.description %}<p>{{ ep.data.description }}</p>{% endif %}
+    <a class="btn btn--quiet" href="{{ ep.url }}"><span aria-hidden="true">&#9654;</span> listen</a>
+  </article>
   {% endfor %}
-</section>
+</div>
+
+<div class="pagefoot">
+  <a class="btn" href="/blog/">blog <span aria-hidden="true">&rarr;</span></a>
+  <a class="backlink" href="/">&larr; back home</a>
+</div>

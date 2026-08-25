@@ -1,61 +1,158 @@
 ---
 layout: base.njk
-nav: home
-title: Lexi Zotomayor
+permalink: /
+homeRail: true
+eleventyExcludeFromCollections: true
 ---
 <section class="hero">
-  <div class="hero-portrait-wrap">
-    <img class="hero-portrait" src="/img/uploads/cna-profile.jpg" alt="Illustrated portrait of Lexi in scrubs">
-  </div>
-  <div class="hero-text">
-    <div class="hero-greeting">
-      {% for line in home.heroGreeting %}<div>{{ line }}</div>{% endfor %}
-    </div>
-    <div class="hero-caption-group">
-      <div class="hero-caption">{{ home.heroCaption }}</div>
-      <div class="hero-script">{{ home.heroScript }}</div>
-    </div>
-  </div>
-</section>
+  <div class="hero__disc" aria-hidden="true"></div>
 
-<section class="work-history">
-  <div class="work-history-text">
-    <h2>{{ home.workHistoryHeading }}</h2>
-    <h3>{% for line in home.workHistoryLines %}{{ line }}<br>{% endfor %}</h3>
-    <div class="rule"></div>
-    <p>{{ home.bio }}</p>
-  </div>
-  <div class="clippings">
-    <img class="clip clip-big" src="/img/uploads/island%20locator_feb%20cover.png" alt="Magazine cover">
-    <div class="clip-side">
-      <img class="clip" src="/img/uploads/BOOK5-min.png" alt="Book cover">
-      <div class="clip-row">
-        <img class="clip" src="/img/uploads/IMG_5364.png" alt="Clipping">
-        <img class="clip" src="/img/uploads/IMG_5369.png" alt="Clipping">
+  <div class="hero__text">
+    <nav class="hivenav" id="hivenav" data-hivenav aria-label="Sections">
+      <div class="hivenav__group hivenav__group--ext">
+        <a href="/blog/"><span class="num">04</span>blog</a>
+        <a href="/podcasts/"><span class="num">05</span>podcasts</a>
+        <a href="/portfolio/"><span class="num">06</span>portfolio</a>
       </div>
-      <div class="clip-row">
-        <img class="clip" src="/img/uploads/IMG_5370.png" alt="Clipping">
-        <img class="clip" src="/img/uploads/GuamDailyPost-dentalmodification.png" alt="Clipping">
+      <div class="hivenav__group">
+        <a href="#work"><span class="num">01</span>work</a>
+        <a href="#skills"><span class="num">02</span>skills</a>
+        <a href="/contact/"><span class="num">03</span>contact</a>
       </div>
+      <span class="hivenav__tick" aria-hidden="true"></span>
+    </nav>
+
+    <p class="eyebrow">
+      <span class="eyebrow__bar" aria-hidden="true"></span>
+      <span class="eyebrow__label">{{ home.heroGreeting | join(" &middot; ") | safe }}</span>
+    </p>
+
+    {# "je suis/soy lexi!" -> light first line, bold second #}
+    {% set scriptParts = home.heroScript.split("/") %}
+    <h1 class="hero__title">
+      {{ scriptParts[0] }}{% if scriptParts.length > 1 %}<br><em>{{ scriptParts.slice(1).join("/") }}</em>{% endif %}
+    </h1>
+
+    <div class="hero__hr" aria-hidden="true"></div>
+
+    <div class="stats">
+      {% for line in home.workHistoryLines %}
+      {% set words = line.split(" ") %}
+      <div>
+        <p class="stats__figure{% if loop.first %} stats__figure--accent{% endif %}">{{ words[0] }}</p>
+        <p class="stats__label">{{ words.slice(1).join(" ") }}</p>
+      </div>
+      {% endfor %}
+    </div>
+
+    <p class="roles">{{ home.heroCaption | lower | replace(" / ", "<br>") | safe }}</p>
+  </div>
+
+  <figure class="portrait">
+    <img src="/img/uploads/cna-profile-transparent.png" alt="Illustrated portrait of Lexi Zotomayor in scrubs">
+    <figcaption>{{ site.name | lower }} &middot; c.n.a.</figcaption>
+  </figure>
+</section>
+
+<section class="section section--first" id="work">
+  <div class="section__grid">
+    <div>
+      <p class="section__num">01</p>
+      <h2 class="section__title">{{ home.workHistoryHeading }}</h2>
+    </div>
+    <p class="lede">{{ home.bio }}</p>
+  </div>
+
+  <div class="clips">
+    <div class="clip--2 clip--pale"><img src="/img/uploads/island locator_feb cover.png" alt="Island Locator magazine cover"></div>
+    <div class="clip--2 clip--tint"><img src="/img/uploads/BOOK5-min.png" alt="Cover of Batayang Biyolohiya textbook"></div>
+    <div class="clip--2 clip--note">
+      <span class="clip__kicker">selected<br>clippings</span>
+      <span class="clip__body">Newsroom pages, features and investigative work from Saipan and Guam.</span>
+    </div>
+    <div class="clip--3"><img src="/img/uploads/IMG_5364.png" alt="Newspaper clipping"></div>
+    <div class="clip--3"><img src="/img/uploads/IMG_5369.png" alt="Newspaper clipping"></div>
+    <div class="clip--3"><img src="/img/uploads/GuamDailyPost-dentalmodification.png" alt="Guam Daily Post clipping: Dental modification, Chamorros' lost art"></div>
+    <div class="clip--3 clip--note">
+      <span class="clip__kicker">more<br>work</span>
+      <a class="backlink" href="/portfolio/">view the portfolio &rarr;</a>
     </div>
   </div>
 </section>
 
-<section class="skills">
-  <div class="skills-heading"><h2>Skills</h2><div class="rule"></div></div>
-  <div class="skills-grid">
-    {% for s in home.skills %}
-    <div class="skill">
-      <div class="skill-title">{{ s.title }}</div>
-      <p>{{ s.description }}</p>
+<section class="section section--rule" id="skills">
+  <div class="section__grid">
+    <div>
+      <p class="section__num">02</p>
+      <h2 class="section__title">Skills</h2>
     </div>
-    {% endfor %}
+    <div class="skills">
+      {% set dots = ["accent", "forest", "sage", "tint"] %}
+      {% for skill in home.skills %}
+      <div>
+        <div class="skills__head">
+          <span class="dot dot--{{ dots[loop.index0 % 4] }}" aria-hidden="true"></span>
+          <h3>{{ skill.title | lower }}</h3>
+        </div>
+        <p>{{ skill.description }}</p>
+      </div>
+      {% endfor %}
+    </div>
   </div>
 </section>
 
-<section class="contact-cta">
-  <h2>Get in touch</h2>
-  <p>{{ home.contactIntro }}</p>
-  <a class="btn pill" href="/contact/">&rarr; {{ site.email }}</a>
-  <img class="contact-cta-img" src="/img/uploads/get-in-touch.jpg" alt="Illustration of two children talking on a tin-can telephone">
+<section class="section section--rule">
+  <div class="section__grid">
+    <div>
+      <p class="section__num">04</p>
+      <h2 class="section__title">Latest<br>Dispatches</h2>
+    </div>
+    <div class="postlist postlist--tight">
+      {% for post in collections.posts | reverse | limit(3) %}
+      <article class="postitem">
+        <p class="postitem__when"><time datetime="{{ post.date | htmlDateString }}" title="{{ post.date | dateReadable }}">{{ post.date | timeAgo }}</time></p>
+        <div>
+          <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+          {% if post.data.description %}<p>{{ post.data.description }}</p>{% endif %}
+        </div>
+      </article>
+      {% endfor %}
+      <p class="pagefoot"><a class="backlink" href="/blog/">all dispatches &rarr;</a></p>
+    </div>
+  </div>
 </section>
+
+<section class="section" id="contact">
+  <div class="contact">
+    <div class="contact__disc" aria-hidden="true"></div>
+    <div class="contact__grid">
+      <div>
+        <span class="contact__kicker">03 &mdash; get in touch</span>
+        <h2>What's on<br><em>your mind?</em></h2>
+        <p>{{ home.contactIntro }}</p>
+      </div>
+      <a class="btn btn--accent" href="/contact/">drop a line <span aria-hidden="true">&rarr;</span></a>
+    </div>
+  </div>
+</section>
+
+{# Inlined on purpose: .eleventy.js passes through src/admin, src/css and
+   src/img only — a file at src/js would never reach the build output. #}
+<script>
+(function () {
+  var btn = document.querySelector('[data-burger]');
+  var nav = document.querySelector('[data-hivenav]');
+  if (!btn || !nav) return;
+  var mq = window.matchMedia('(max-width: 900px)');
+  function sync() {
+    nav.hidden = mq.matches && btn.getAttribute('aria-expanded') !== 'true';
+  }
+  btn.setAttribute('aria-expanded', 'false');
+  btn.addEventListener('click', function () {
+    btn.setAttribute('aria-expanded', btn.getAttribute('aria-expanded') === 'true' ? 'false' : 'true');
+    sync();
+  });
+  mq.addEventListener('change', sync);
+  sync();
+})();
+</script>

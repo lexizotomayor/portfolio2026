@@ -4,7 +4,7 @@ date: 2026-08-23T20:25:00.000-04:00
 description: "When a routine casino excavation in Garapan unearths an unexploded
   WWII sea mine, the newsroom goes into overdrive. Reporters mill about the
   site, brave the perimeter fence to get a good visual of the operation. "
-image: /img/uploads/garapan-dig-seamine.jpg
+image: /img/uploads/img_5545.jpg.png
 ---
 The unearthing of ancient relics—and occasionally human bones—never failed to catch my eye during my reporting days. I wasn't always free to cover digs, but whenever one opened up, I fought to be there—especially in 2015, for what was billed as the largest excavation in the islands' history.
 

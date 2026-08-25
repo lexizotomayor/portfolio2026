@@ -6,13 +6,15 @@ description: Memories Without an Address is a short reflection on a late-night
   story about vanished hangouts, scattered friends, and the quiet realization
   that we can’t buy a return ticket to a past that now lives only on a phone
   screen.
-image: /img/uploads/gemini_generated_image_gf302ygf302ygf30.jpg
+image: /img/uploads/oleai1.jpg
 ---
 We were trading messages late last Sunday night—that slow, rhythmic ping-pong across the screen between my apartment and Guam, two former journalists attempting to summarize life in general. Somewhere around midnight, the conversation drifted back north.
 
 I typed out a quick confession: *I miss Saipan.*
 
 Marvic and I used to be reporters back in the day. She was among the early wave of Filipino journalists who arrived to chronicle the place before moving on to Guam. We actually met through our keyboards first, co-filing stories for the Guam edition while I remained anchored in the Saipan newsroom. Distance back then was just a deadline to beat, interrupted occasionally when she’d fly in for work or a long weekend, and we’d catch up over bad coffee and island gossip.
+
+![Former Guam Daily Post and former Glimpses Publications editor Marvic Cagurangan with longtime friend Lexi Zotomayor](/img/uploads/marvic-lexi.jpg "Former Saipan-based reporters Marvic Cagurangan and Lexi Zotomayor at the Glimpses Publications headquarters on Guam in 2010")
 
 "Every time I go there, it feels like a different place," she messaged back.
 

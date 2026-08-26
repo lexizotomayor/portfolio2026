@@ -16,7 +16,7 @@ Firstly, grounded in the Catholic faith, I get the deep, quiet comfort in the li
 
 The Buddhists have a word for the immediate ache—*dukkha*. It’s the deep disquietude that comes with hanging on to things that cannot stay. I am reminded that I cannot expect permanence from a world that’s constantly changing. Loving less does not offer relief but disengaging from what has already shifted does. 
 
-The ancient Chinese writer Zhuang Zi went through the same trouble. When his wife died, he wept until he realized her passing was no stranger than the arrival of winter after autumn. It was simply the changing of the seasons. Still, knowing that loss is natural rarely helps you get through a quiet Tuesday morning.
+The ancient Chinese philosopher Zhuang Zi went through the same trouble. When his wife died, he wept until he realized her passing was no stranger than the arrival of winter after autumn. It was simply the changing of the seasons. Still, knowing that loss is natural rarely helps you get through a quiet Tuesday morning.
 
 For the daily work of living, Viktor Frankl provides relief. Surviving Auschwitz taught him that we can bear almost any suffering if we can find a reason to carry it. The pain doesn't stop us; the lack of a purpose does. There’s no one-size-fits-all formula. No one could hand me that purpose;I had to forge my own.
 

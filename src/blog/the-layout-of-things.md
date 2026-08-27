@@ -1,5 +1,5 @@
 ---
-title: "The layout of things "
+title: The Layout of Things
 date: 2026-08-27T16:06:00.000-04:00
 description: In this essay, the writer shares her discovery of the quiet sorcery
   of graphic design in a print shop, and how a newfound love for grids, fonts,

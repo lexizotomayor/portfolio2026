@@ -22,7 +22,7 @@ On other days, he worked like Le Corbusier, running photo montages across the gr
 
 Software, I realized, was only a small part of the craft. The real work lay in knowing how the pieces fit together—and knowing just how far a boundary could stretch to accommodate a whim. Watching them work day after day quieted the writer in me and woke the artist.
 
-When I discovered web design, that artist took off. A quiet patron in my life—an old partner to whom I owe a deep debt of gratitude—first opened my eyes to the digital world, even enrolling me in design school so I could master the craft.
+When I discovered web design, that artist took off. A quiet patron in my life—a significant other, to whom I owe a deep debt of gratitude—first opened my eyes to the digital world, even enrolling me in design school so I could master the craft.
 
 From there, the work became headlong and exciting. I lost track of hours balancing CSS Flex and Grid, testing serif against sans-serif, tweaking font weights, and altering hex codes to watch colors shift on the screen. It was digital magic.
 

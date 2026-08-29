@@ -7,7 +7,7 @@ description: A reflective personal essay that uses the Korean drama When Life
   resilience, purpose, and renewal after personal loss.
 image: /img/uploads/calamansi2.jpg
 ---
-**Watching *When Life Gives You Tangerines* is a risky proposition. You expect a gentle Korean drama about island life. Before the episode ends, you are staring at the ceiling, auditing your choices, and wondering why your story looks less like a sun-drenched grove and more like a backyard calamansi tree: small, thorny, and stubborn.**
+Watching *When Life Gives You Tangerines* is a risky proposition. You expect a gentle Korean drama about island life. Before the episode ends, you are staring at the ceiling, auditing your choices, and wondering why your story looks less like a sun-drenched grove and more like a backyard calamansi tree: small, thorny, and stubborn.
 
 The show hits hard because it understands survival. I used to think my life was defined by sharp pivots—leaving eleven years of newsroom ink for healthcare. But caregiving was never a detour. Taking care of others saved me. It brought a steady, unshakeable joy. It taught me how to hold space for life when it is most fragile.
 

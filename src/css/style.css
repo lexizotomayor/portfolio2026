@@ -592,6 +592,8 @@ a:hover { color: var(--accent); }
   .article__hero { margin: 22px calc(var(--pad) * -1) 0; }
   .article__hero figcaption { padding: 0 var(--pad); }
   .prose, .comments, .contactpage { max-width: none; }
+  .prose > p { font-size: 20px; line-height: 1.7; }
+  .prose ul, .prose ol { font-size: 20px; line-height: 1.7; }
   .prose blockquote { font-size: 26px; }
 
 }

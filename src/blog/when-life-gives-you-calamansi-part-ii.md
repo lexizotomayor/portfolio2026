@@ -15,9 +15,9 @@ Whether they were each other’s first love, I do not know. But they were insepa
 
 Their romance lacked the dramatic misery of screenplays, though it had its moments. To see my mother, my father used to scale the balcony of her parents' home. It took athletic skill. Or hormones. Or love, for lack of a better word.
 
-The Jeju couple ran away, took a ferry to Busan, and were driven back by circumstance. It took time, but Aesun eventually got her dream wedding. My parents took a quicker route. They eloped to Magdalena for a secret ceremony, then held a second, official church wedding for the family.
+The Jeju couple ran away, took a ferry to Busan, and were driven back by circumstance. It took time, but Aesun eventually got her dream wedding. My parents took a quicker route. They eloped to Magdalena—six miles southeast of our hometown—for a secret ceremony, then held a second, official church wedding two years later for the family.
 
-Like their eldest child, Geum Myeong, I arrived when life was smooth and comfortable. I was never short on affection. I had several mothers: my grandmother, my Tiang Bebe, my mother. My Tatay Pedring was a second father. Cousins and playmates were everywhere. I was not lonely.
+Like their eldest child, Geum Myeong, I arrived when life was smooth and comfortable. I was never short on affection. Growing up in my maternal ancestral home, I had several mothers: my grandmother, my Tiang Bebe, my mother. I had several fathers including Tatay Pedring, my lolo. Cousins and playmates were everywhere. I was not lonely.
 
 My parents' generation had it rough. They inherited a plain, unyielding rule: take care of everyone. Leave no one behind. Everyone is your responsibility.
 

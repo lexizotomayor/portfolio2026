@@ -16,7 +16,7 @@ navActive: /blog/
 
   <div class="article__meta">
     <div class="article__stamp">
-      <span class="article__ago">{{ page.date | timeAgo }}</span>
+      <time class="article__ago" datetime="{{ page.date | isoDateTime }}">{{ page.date | timeAgo }}</time>
       <time class="article__date" datetime="{{ page.date | htmlDateString }}">{{ page.date | dateReadable }}</time>
       {% set mins = (content | striptags | length / 1100) | round %}
       <span class="article__read">{{ mins if mins > 0 else 1 }} min read</span>

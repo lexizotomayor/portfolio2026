@@ -3,6 +3,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/admin");
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/img");
+  eleventyConfig.addPassthroughCopy("src/js");
 
   // Filters
   eleventyConfig.addFilter("dateReadable", (date) => {
@@ -18,12 +19,18 @@ module.exports = function(eleventyConfig) {
     return new Date(date).toISOString().split('T')[0];
   });
 
+  eleventyConfig.addFilter("isoDateTime", (date) => {
+    return new Date(date).toISOString();
+  });
+
   eleventyConfig.addFilter("limit", (array, limit) => {
     return array.slice(0, limit);
   });
 
   // Relative age label — "42 seconds ago", "3 hours ago", "2 weeks ago", "7 months ago".
-  // Added for the redesign: the blog index and article stamp lead with this.
+  // This is the build-time fallback rendered into the HTML; src/js/timeago.js
+  // mirrors this same bucket logic to keep the label ticking client-side after
+  // the page loads, since a static build otherwise freezes it at deploy time.
   eleventyConfig.addFilter("timeAgo", (date) => {
     const seconds = Math.max(0, Math.floor((Date.now() - new Date(date).getTime()) / 1000));
     if (seconds < 60) return seconds === 1 ? "1 second ago" : seconds + " seconds ago";

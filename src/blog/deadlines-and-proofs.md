@@ -4,7 +4,7 @@ date: 2026-09-11T00:20:00.000-04:00
 description: This chronicles how a chance discovery on a university walkway
   launched my career in manuscript editing, publication management, and print
   production.
-image: /img/uploads/sentro.jpg
+image: /img/uploads/editorial1.png
 ---
 It all began at the University of the Philippines *Sentro ng Wikang Filipino*, where my life became a rhythm of deadlines and proofs. I was working as a secretary for the Integrated Chemists of the Philippines, walking down a covered path toward lunch. A person has to eat, even when tasked with recruiting licensed chemists.
 

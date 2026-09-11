@@ -10,7 +10,7 @@ It all began at the University of the Philippines *Sentro ng Wikang Filipino*, 
 
 On the way down the slope to the main road, I spotted a notice pinned to a post: a job opening at the center. I applied right away.
 
-I landed an interview with Dr. Mario Miclat, an expert on Chinese Studies and the center's associate director. Soon after, I joined the small team squeezed into a tiny production room in the Faculty Center.
+I landed an interview with Dr. Mario Miclat, an expert on Chinese Studies and Sentro ng Wikang Filipino's associate director. Soon after, I joined the small team squeezed into a tiny production room in the Faculty Center.
 
 My first hurdle was getting back into the rhythm of the language. Weekly staff meetings were practical lessons in Filipino orthography and grammar. Under the guidance of Prof. Joey Bacquiran, I took on long-form editing, pulling manuscripts from the slash file and studying every editor's correction.
 

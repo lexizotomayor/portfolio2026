@@ -7,7 +7,7 @@ description: In Pieces Yet to Be Collected, a quiet meditation on memory and
   claim what we left.
 image: /img/uploads/caricature-self.png
 ---
-There is a particularity in the way *Night Train to Lisbon* takes a man by the elbow, takes him back in time, and makes him wonder about lived memories. Pascal Mercier, in his book—later adapted into a film—writes: “We leave something of ourselves behind when we leave a place, we stay there, even though we go away. And there are things in us that we can find again only by going back there.”
+There is a particularity in the way *Night Train to Lisbon* takes you by the elbow, back in time, and makes you wonder about lived memories. Pascal Mercier, in his book—later adapted into a film—writes: “We leave something of ourselves behind when we leave a place, we stay there, even though we go away. And there are things in us that we can find again only by going back there.”
 
 This is a complete 180-degree turn from Carl Jung’s interpretation: that when we leave a place, and when the structures we attach our memories to disappear, our memories lose their physical anchors and disconnect.
 

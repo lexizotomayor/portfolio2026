@@ -19,6 +19,6 @@ As we move on from address to address, we scatter multiple versions of ourselves
 
 When we look back on these earlier iterations from afar, we feel light, rootless, unconnected. This changes when we revisit. A sudden flood of emotion triggers at the threshold. The place instantly rekindles an old feeling—nostalgia, grief, joy, shame, pride—and these ghost-like emotions lay hands on us when we come back to places where we once were.
 
-And when a former watering hole or a familiar hangout is lost to the wrecker's ball and reduced to rubble, we feel a sharp, physical loss. It is a missed opportunity to step inside and say hello to the person we used to be. We mourn its disappearance in silence—a door slammed shut in our faces, an abrupt disinvitation to our own youth.
+And when a former watering hole or a familiar hangout is surrendered to slow decay, or swept away by the howling fury of a super typhoon, we feel a sharp, physical loss. It is a missed opportunity to step inside and say hello to the person we used to be. We mourn its disappearance in silence—a door slammed shut in our faces, an abrupt disinvitation to our own youth.
 
 Envied, perhaps, are those few who stay planted in the same spot all their lives. For the rest of us, who pack up and move along, the past remains scattered in a dozen rooms we no longer own, waiting for us to come back and claim what we left behind.

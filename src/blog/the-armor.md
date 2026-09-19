@@ -14,7 +14,7 @@ She fed the habit on old copies of *National Geographic* rooted around in the 
 
 So she began weighing intelligence by the pound. She dressed tiny thoughts in heavy coats and mistook plain speaking for plain thinking. It never occurred to her to doubt the system. Everyone did it, so she did too.
 
-Then she walked into a real newsroom, red pencil in hand, and the system broke down.
+Then she walked into a real newsroom, red pen in hand, and the system broke down.
 
 A newspaper is an impatient business; it wants the news down on the street before the ink dries. Yet years later on Saipan, writing for several publications under a hot island sun, she was still sweating over paragraphs, worrying about the AP Stylebook and newspaper conventions, desperate not to look foolish. She spent her days plucking out words as she pounded the keyboard, muting her own voice in the process.
 

@@ -32,4 +32,4 @@ If an older, wiser writer could walk back into that newsroom today and lean over
 
 She wouldn't listen, of course. I should know: that stubborn reporter was me.
 
-I spent years building armor out of big words, only to realize a smooth, simple stone gets the job done every time.
+I know now I don't need armor; just a stone will do the trick.

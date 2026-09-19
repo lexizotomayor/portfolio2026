@@ -26,7 +26,7 @@ He believed, too, that an old piece of writing isn't an artifact under glass; it
 
 So she began talking with those digitized archives. Why so many words? What was she so afraid of? Once she listened, the truth was simple enough: the girl on that long bus trip was just piling up words like a barrier to hide her insecurities.
 
-Gadamer wrote about two horizons coming together. Hers was small: an ink-stained proof, a crowded desk, and an urgent deadline. The other horizon is broader, stretched out over thirty-five years. Standing where they meet, it is easy to see that most of her fears were groundless—and that even now, the lingering desire to refine the language never really stops.
+Gadamer wrote about horizons coming together. Hers was small: an ink-stained proof, a crowded desk, and an urgent deadline. The other horizon is broader, stretched out over thirty-five years. Standing where they meet, it is easy to see that most of her fears were groundless—and that even now, the lingering desire to refine the language never really stops.
 
 If an older, wiser writer could walk back into that newsroom today and lean over her shoulder, she wouldn't hand her a bigger dictionary or a sharper pencil. She’d advise her to take a breath, strike out the fluff, and say what happened.
 

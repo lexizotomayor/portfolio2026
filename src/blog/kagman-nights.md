@@ -1,9 +1,8 @@
 ---
 title: Kagman Nights
 date: 2026-09-20T13:08:00.000-04:00
-description: A late toast to Pale’ Ike, whose Kagman tabletop warmth, dry wit,
-  and late-night coffee gatherings turned a scattershot crew of journalists into
-  a lifelong family.
+description: A late toast to Pale’ Ike—for the table at Kagman, the dry wit, and
+  the late coffee that held a loose crew of journalists together for good.
 image: /img/uploads/img_6088.jpeg
 ---
 Night in Kagman is usually quiet, but as the car climbed the hill, the cicadas took over, loud and relentless. When it rained, water drummed against the roof while conversation ran on inside—Chamorro and Filipino voices trading stories past midnight.

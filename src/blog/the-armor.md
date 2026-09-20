@@ -20,7 +20,7 @@ A newspaper is an impatient business; it wants the news down on the street befor
 
 Eventually she left the daily beat. She kept those old paper clippings for years, until the yellowing newsprint gave way to digital scans and she finally let the physical paper go. But every now and then, opening an old file on a screen, she’d feel a sudden wave of embarrassment—that gnawing urge to crawl into a shell or hide under a rock. There was a sprawling sentence, a stray comma, a word working far too hard to be noticed. The name at the top was familiar, but the voice belonged to a stranger.
 
-It took more than thirty years—and a quiet lesson from the philosopher Hans-Georg Gadamer—to understand that shame. Gadamer noted that none of us come to anything empty-handed. We carry along everything we were taught, the foolish baggage of where we began. Those big words were her armor. They were misplaced, certainly, but they were the only starting point she had, and everyone has to start somewhere.
+It took more than thirty years—and a lesson from the philosopher Hans-Georg Gadamer—to understand that shame. Gadamer noted that none of us come to anything empty-handed. We carry along everything we were taught, the foolish baggage of where we began. Those big words were her armor. They were misplaced, certainly, but they were the only starting point she had, and everyone has to start somewhere.
 
 He believed, too, that an old piece of writing isn't an artifact under glass; it’s like an old acquaintance. You don't inspect it—you sit down and have a talk with it.
 

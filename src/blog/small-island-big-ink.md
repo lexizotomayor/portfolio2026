@@ -4,7 +4,7 @@ date: 2026-03-16T20:35:00.000-04:00
 description: "Reflections on reporting for community papers in the Pacific. "
 image: /img/uploads/editorial.jpg
 ---
-Every March, I get a little misty for print.
+Every March, I get a little misty for print. It’s Marianas Variety’s anniversary, the day after the Ides of March.
 
 To outsiders, reporting on a tiny Pacific island sounds like light work. Those of us who survived the newsroom on Saipan know better. We were a small tribe carrying outsized weight.
 

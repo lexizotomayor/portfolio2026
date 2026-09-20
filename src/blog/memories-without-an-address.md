@@ -12,7 +12,7 @@ We were trading messages late last Sunday night—that slow, rhythmic ping-pong 
 
 I typed out a quick confession: *I miss Saipan.*
 
-Marvic and I used to be reporters back in the day. She was among the early wave of Filipino journalists who arrived to chronicle the place before moving on to Guam. We actually met through our keyboards first, co-filing stories for the Guam edition while I remained anchored in the Saipan newsroom. Distance back then was just a deadline to beat, interrupted occasionally when she’d fly in for work or a long weekend, and we’d catch up over bad coffee and island gossip.
+Marvic and I used to be Saipan-based reporters back in the day. She was among the early wave of Filipino journalists who arrived to chronicle the islands before moving on to Guam. We actually met through our keyboards first, co-filing stories for the Guam edition while I remained anchored in the Saipan newsroom. Distance back then was just a deadline to beat, interrupted occasionally when she’d fly in for work or a long weekend, and we’d catch up over bad coffee and island gossip.
 
 ![Former Guam Daily Post and former Glimpses Publications editor Marvic Cagurangan with longtime friend Lexi Zotomayor](/img/uploads/marvic-lexi.jpg "Former Saipan-based reporters Marvic Cagurangan and Lexi Zotomayor at the Glimpses Publications headquarters on Guam in 2010")
 

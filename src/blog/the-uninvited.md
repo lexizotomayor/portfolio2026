@@ -7,7 +7,7 @@ description: A personal reflection on how 19th-century whaling ships breached
   Guam to Queens.
 image: /img/uploads/gemini_generated_image_r0ci75r0ci75r0ci.jpg
 ---
-There is an eerie, understated horror in the quiet meeting of two worlds.
+There is an eerie, understated horror in the meeting of two worlds.
 
 I was watching a National Geographic segment recently on Disney Plus that revisited how European ships brought biological warfare to South America—not through gunpowder, but through invisible, highly contagious diseases that wiped out thousands who had never encountered them before. It immediately brought me back to the Pacific, where that exact same tragedy played out across the islands. 
 

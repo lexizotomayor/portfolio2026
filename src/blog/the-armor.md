@@ -2,8 +2,7 @@
 title: The Armor
 date: 2026-09-19T16:11:00.000-04:00
 description: A journalist-turned-nursing assistant looks back on thirty years of
-  heavy words, big armor, and the quiet art of finally learning to say what
-  happened.
+  heavy words, big armor, and the art of finally learning to say what happened.
 image: /img/uploads/gadamer-essay.jpg
 ---
 She used to believe writing should be high and lofty—distant and far removed from the dust of everyday conversation.

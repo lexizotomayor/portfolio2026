@@ -8,7 +8,7 @@ image: /img/uploads/gemini_generated_image_762p64762p64762p.jpg
 ---
 I met them all in 2004, on a vegetable farm in San Vicente.
 
-I was to live in the employee barracks of a newspaper owned by Abed Younis, a Palestinian artist and publisher who had made a small world of his own on the island. My flight landed around three in the morning, and I stepped out into the damp stillness a strange place has at that hour. Mr. Younis came to get me himself. He could have sent someone else, and he did not.
+I was to live in the employee barracks of a newspaper owned by Abed Younis, a Palestinian artist and publisher who had made a small world of his own on the island. My flight landed around three in the morning, and I stepped out into the damp stillness a foreign place has at that hour. Mr. Younis came to get me himself. He could have sent someone else, and he did not.
 
 We drove toward San Vicente on a narrow two-lane road. Once the lights of the terminal fell behind us there was nothing on either side, and the car went uphill through the dark like a small boat, with only the headlights ahead of it. We talked a little. Outside it was entirely quiet.
 

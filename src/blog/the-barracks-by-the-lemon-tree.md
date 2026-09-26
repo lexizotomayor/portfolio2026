@@ -2,8 +2,8 @@
 title: The Barracks by the Lemon Tree
 date: 2026-09-25T21:57:00.000-04:00
 description: Set against a vegetable farm in 2004, a newly arrived journalist
-  reflects on the quiet disorientation of leaving Manila behind and the sudden
-  warmth of finding a second family in the employee barracks of San Vicente.
+  reflects on the disorientation of leaving Manila behind and the sudden warmth
+  of finding a second family in the employee barracks of San Vicente.
 image: /img/uploads/gemini_generated_image_762p64762p64762p.jpg
 ---
 I met them all in 2004, on a vegetable farm in San Vicente.

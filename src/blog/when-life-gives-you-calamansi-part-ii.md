@@ -7,7 +7,7 @@ description: 'The writer relates deeply with the Netflix hit show, "When Life
   expectations. '
 image: /img/uploads/gemini_generated_image_uqxgyjuqxgyjuqxg.jpg
 ---
-The Netflix series *When Life Gives You Tangerines* hits hard. I cannot shake the quiet rush of memories it set off. The show is a Matryoshka doll. Open one layer, and a smaller one waits inside—a gift that keeps opening. You uncover your own life one layer at a time, like peeling fruit.
+The Netflix series *When Life Gives You Tangerines* hits hard. I cannot shake the calm rush of memories it set off. The show is a Matryoshka doll. Open one layer, and a smaller one waits inside—a gift that keeps opening. You uncover your own life one layer at a time, like peeling fruit.
 
 In Gwan Sik, the hardworking fisherman of Jeju, I see my father. He married Oh Aesun, the daughter of a *haenyeo*diver. Modest origins, shaped by their era. My parents were no different.
 

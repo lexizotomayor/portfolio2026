@@ -8,13 +8,13 @@ image: /img/uploads/gemini_generated_image_762p64762p64762p.jpg
 ---
 I met them all in 2004, on a vegetable farm in San Vicente.
 
-I was to live in the employee barracks of a newspaper owned by Abed Younis, a Palestinian artist and publisher who had made a small world of his own on the island. My flight landed around three in the morning, and I stepped out into the damp stillness a strange place has at that hour. Abed came to get me himself. He could have sent someone else, and he did not.
+I was to live in the employee barracks of a newspaper owned by Abed Younis, a Palestinian artist and publisher who had made a small world of his own on the island. My flight landed around three in the morning, and I stepped out into the damp stillness a strange place has at that hour. Mr. Younis came to get me himself. He could have sent someone else, and he did not.
 
 We drove toward San Vicente on a narrow two-lane road. Once the lights of the terminal fell behind us there was nothing on either side, and the car went uphill through the dark like a small boat, with only the headlights ahead of it. We talked a little. Outside it was entirely quiet.
 
 I don't remember those first hours well. I was too tired. A few things stayed with me: the weight of my big red suitcase, the warmth of Abed's welcome, and the moment it came over me where I was. He showed me to the barracks and then walked back to his own house across the vegetable field. Before he left he asked me to come to breakfast with his family.
 
-The quarters were plain and clean. Inside the front door were a small kitchen and a sink. Past the bathroom, across from Clarissa's room, was mine: a single bed made up with a green blanket, and two louvered windows, one beside the bed and one next to the door. It was room enough for a life that was starting over. The red suitcase went under the bed, and an open cubby in the wall waited for the few things I had brought.
+The quarters were plain and clean. Inside the front door were a small kitchen and a sink. Immediately to the left was Clarissa’s room. Adjacent to hers, across from the bathroom, was my room: a single bed made up with a green blanket, and two louvered windows, one beside the bed and one next to the head of the bed. It was room enough for a life that was starting over. The red suitcase went under the bed, and an open cubby in the wall waited for the few things I had brought.
 
 There were still some hours of dark left for sleeping. I spent most of them crying. I thought about Manila and the life I had packed up and left: the routines I knew, the places I was comfortable in, and the faces of people I already missed.
 

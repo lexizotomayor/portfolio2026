@@ -1,7 +1,7 @@
 ---
 title: Home by Lunch
 date: 2026-09-24T09:14:00.000-04:00
-description: A tender look at an unpretentious childhood, the quiet village that
+description: A tender look at an unpretentious childhood, the village that
   raised it, and the long, graceful shadow of a mother’s sacrifice.
 image: /img/uploads/family.jpg
 ---

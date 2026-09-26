@@ -1,7 +1,7 @@
 ---
 title: Pieces Yet to Be Collected
 date: 2026-09-14T15:21:00.000-04:00
-description: In Pieces Yet to Be Collected, a quiet meditation on memory and
+description: In Pieces Yet to Be Collected, a silent reflection on memory and
   place, the essay explores how the rooms, streets, and haunts we leave behind
   remain quietly tethered to our former selves, waiting for us to return and
   claim what we left.

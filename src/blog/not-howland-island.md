@@ -22,6 +22,6 @@ Neratus was ordered to stack dry wood over the young man. He waited forty minute
 
 Much of this matched what the islanders had said: two American flyers in the jail, one of them wounded, the gray walls, the smoke over the brush, their deaths in Garapan in the summer of 1944 as U.S. forces closed on the shore.
 
-Over so many years memory fades, and what remains is fragments. It moved me to find some of them confirmed on a mimeographed page, and I honor the people who kept them.
+Over so many years memory fades, and what remains are fragments. It moved me to find some of them confirmed on a mimeographed page, and I honor the people who kept them.
 
 Visitors who came to hear the elders, eager to solve a persistent mystery, may have mistaken these flyers for someone else. The airmen were not trying to land on Howland Island, and their last names were not Earhart and Noonan.

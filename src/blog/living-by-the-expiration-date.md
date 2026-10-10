@@ -4,7 +4,7 @@ date: 2026-10-09T05:33:00.000-04:00
 description: An essay on eleven years in the Northern Marianas, the quiet
   anxiety of work permit expiration dates, and why the islands need permanent
   solutions for long-term workers.
-image: /img/uploads/lib-parade-japanese-workers.jpg
+image: /img/uploads/lib-parade-bw-japanese-workers.jpg
 ---
 There is a particular kind of low-grade anxiety known only to those who live by the date stamped on a work permit.
 
@@ -31,3 +31,5 @@ Instead of treating foreign labor like an emergency valve to be turned on and of
 A few practical adjustments would do wonders. Automatic work authorization while renewal papers are being processed would keep small businesses from losing staff overnight while giving processing officers breathing room. Furthermore, granting status portability—allowing pre-vetted workers the freedom to change employers locally rather than tying them to a single business—would let the labor market breathe naturally without driving experienced people away.
 
 An island cannot build its future on quicksand and administrative delays. By replacing temporary extensions with a little permanence, we can honor the people who showed up to do the work, giving them the simple certainty to stay, contribute, and call the island home.
+
+PHOTO CAPTION: Japanese workers participate in the Liberation Day Parade in 2006. Photo by Lexi Zotomayor/Marianas Variety.  **Note:** *Of all the things I hold dear about these islands, it is the way we live together—people from far-flung places, gathered here, sharing the same small piece of earth in peace.--Lexi Zotomayor*

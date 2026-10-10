@@ -12,7 +12,7 @@ An economy, at its most fundamental level, is simply people going about the busi
 
 When that movement slows down, the quiet that follows is the sound of an economy contracting in slow motion.
 
-The daily mathematics facing the Northern Marianas today are not a matter of anyone’s failure or poor intent; they are simply the stark arithmetic of isolated geography. To hold steady, an island needs a critical mass of economic velocity. Yet across the territory, three pressures have converged at once. Retirees living on reduced pensions naturally tighten their belts, spending only on absolute essentials. Workers whose hours have been scaled back buy what they must and defer the rest. Local businesses, faced with soaring utility bills, shorten their operating hours or close two days a week to survive.
+The daily mathematics facing the Northern Marianas today are not a matter of anyone’s failure or poor intent; they are simply the stark arithmetic of isolated geography. To hold steady, an island needs a critical mass of economic velocity. Yet across the commonwealth, three pressures have converged at once. Retirees living on reduced pensions naturally tighten their belts, spending only on absolute essentials. Workers whose hours have been scaled back buy what they must and defer the rest. Local businesses, faced with soaring utility bills, shorten their operating hours or close two days a week to survive.
 
 When a restaurant closes early to save on power, it earns less, pays less in gross revenue taxes, and offers fewer work hours to its staff. When workers earn less, local merchants lose customers. One person’s reduced spending becomes another person’s lost income.
 

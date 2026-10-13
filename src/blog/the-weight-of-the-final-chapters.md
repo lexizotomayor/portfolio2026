@@ -1,11 +1,11 @@
 ---
 title: The Weight of the Final Chapters
 date: 2026-09-01T22:18:00.000-04:00
-description: This essay is a quiet reflection on the quiet stewardship of
-  end-of-life caregiving, reframing the surrender of adult autonomy not as a
-  second childhood, but as a sacred trust. Through personal detail and deep
-  empathy, it honors the profound weight of protecting an aging individual's
-  dignity as their story draws to a close.
+description: This essay is a reflection on the stewardship of end-of-life
+  caregiving, reframing the surrender of adult autonomy not as a second
+  childhood, but as a sacred trust. Through personal detail and deep empathy, it
+  honors the profound weight of protecting an aging individual's dignity as
+  their story draws to a close.
 image: /img/uploads/care.jpg
 ---
 In the wake of a loss, I find myself taking a brief, well-earned breather. Preparing for the next assignment is no small undertaking; it requires a complete reset—physically, emotionally, and mentally.

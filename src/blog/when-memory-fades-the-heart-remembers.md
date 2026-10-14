@@ -8,40 +8,16 @@ description: In nursing coursework, we study dementia through clinical
   heart.
 image: /img/uploads/alzheimers03.jpg
 ---
-Caring for someone with Alzheimer’s Disease is less about managing a condition and more about learning how to share a day. The work requires a light touch, a steady presence, and a willingness to step into a world where the rules are constantly shifting. My job is simple: to keep her safe, to ease the small daily anxieties, and to make sure she feels grounded in my care, no matter how cloudy the morning gets.
+My shifts spent alongside a gentle soul burdened by cognitive decline help me parse the four clinical categories of the disease. In nursing textbooks, they sound formal, and even my own memory has a hard time keeping them straight: *amnesia*, *aphasia*, *apraxia*, and *agnosia*. But when we are out together for lunch, sitting across from each other in a diner booth, those four words are suddenly disabused of their medical garb. They become the stark, naked realities of the hardships the lady in front of me goes through—and it could not be any less tragic.
 
+In the booth, she would worry about her umbrella we used to fend off the rain that day. Despite my repeated replies that it was securely tucked in the tub next to the door, in between sips of her decaf coffee, she would ask like it were the first time. This is the most common experience for those living with Alzheimer's: when memory betrays them. In clinical terms, it is called *amnesia*. But for us caregivers and family members, it is simply *nag-uulyanin*—the persistent forgetfulness of aging.
 
-In nursing coursework, we learn the classical pillars of this cognitive shift—the "Four A’s" of Alzheimer’s: *amnesia*, *aphasia*, *apraxia*, and *agnosia*. On paper, they read like abstract medical terms. But on a regular day, from breakfast until dusk, they are not examination questions. They are simply the quiet, repeating friction of a day spent in someone else’s internal weather.
+She reaches across the salt and pepper shakers, her fingers hovering above the table while her mouth shapes an unfinished thought. "Could you pass me the..." she begins, her voice drifting off when the noun refuses to show up. Rather than rush in to finish her sentence, I wait, then slide the sugar bowl into her reach. She nods with a grateful smile, the missing word no longer needing to be spoken. Medical manuals classify this lost vocabulary as *aphasia*, but at the table, it is just a tongue losing its balance.
 
+When the bowl of warm soup arrives, she picks up her spoon with familiarity, but then pauses three inches above the broth. Her wrist stiffens, unsure how to make the angle meet her lips—a motion her hands have made thousands of times without a second thought. A soft touch to her elbow or a demonstration with my own spoon is usually enough to set the habit back into motion. Doctors call this motor roadblock *apraxia*, but in the diner light, it is simply a muscle forgetting its routine.
 
-I come prepared. Despite the constant questioning or the sudden, sharp complaints that can punctuate the early hours, I carry a deep bag of patience. In dementia care, intellectual logic matters far less than emotional resonance. People may lose track of facts, but they hold on to feelings. It is ultimately about how a caregiver makes a client feel—ensuring that deep down, beneath the confusion, she knows she is safe in my care.
+She looks at her own winter cardigan resting on the seat beside her and asks, with complete innocence, who left their jacket in our booth. Or for a brief moment, her eyes rest on my face with a polite, inquiring stare, as if trying to place me in a room from fifty years ago. There is no use in testing her or demanding a name. I simply offer a warm smile and let her know she is safe where she sits. The charts call this failure of recognition *agnosia*, but between two people sharing lunch, it is just a momentary lapse passing over a familiar face.
 
+What the medical manuals leave out is that beneath these daily struggles lies something far more durable. Call it habit, or call it muscle memory—a steady bedrock of who she is, laid down so deep that even the advancing illness cannot wash it away. Even when she cannot recall the day of the week or the name of her town, her fingers still know how to smooth down her napkin when the meal is done. She still offers a polite nod to the cashier on the way out the door.
 
-The morning begins at her front door. I step inside and am greeted by a face that looks at me with total blankness—welcomed by someone who does not know or remember me, despite our dozens of mornings together. This is amnesia in its starkest, everyday form. Over breakfast, as we sit near the kitchen calendar, the rhythm of repetitive questioning begins. *What are we doing today? Who is coming?* I carry a bank of canned answers, delivering each response with the exact warmth and fresh energy as if it were the very first time.
-
-
-When it is time for her morning medications, another boundary appears. She flatly refuses to take the small pills from my bare hand; instead, she insists I place them neatly into a small dish first. It is a quiet exercise in control and decorum that I readily grant her. During our conversations, when she loses track of a thought, a touch of aphasia creeps into the room. Unable to bridge the gap in comprehension, she pins the difficulty on my accent or tells me my vocabulary is strange today. I simply smile and let it pass.
-
-
-Then comes the focal point of her day: an endless, looping desire to know who will be working at her favorite neighborhood cafe. She insists we go. On one trip for lunch, we arrived only to find a line snaking out the door. She asked who was working the dinner shift, and we turned back toward home. Yet the moment we stepped back into her apartment, the loop reset. She announced, with complete urgency, that we needed to go to the restaurant to find out who was working tonight.
-
-
-It goes on and on like this, an endless circle disrupted only by a call to the bathroom or a brief change of subject. The entire afternoon becomes a seesaw between her lingering fixed ideas and my gentle redirections.
-
-
-As the sun begins to fail, the strange, reliable phenomenon of sundowning settles in over dinner. The brain’s internal clock loses its rhythm, and an invisible fatigue magnifies every small confusion. Sitting in a restaurant booth at dusk, she insists on ordering avocado toast, but the meal quickly becomes a battleground of competing instincts.
-
-
-First comes the physical betrayal of apraxia. The intention to eat is clear, but her hands stumble, failing to coordinate the knife and fork to cut the crust. When I gently suggest picking up the toast with her fingers, an ancient instinct blocks the exit: *Picking up food with one’s hands is simply not proper.* Caught between a hand that will not obey and an unyielding lifelong sense of table manners, her frustration boils over.
-
-
-Here, aphasia and agnosia join forces. Unable to say, *"My hands can no longer manage this fork,"* her mind projects the difficulty outward, misinterpreting the room-temperature avocado as freezing. She declares the food cold and a mess, pushing the plate away entirely. I quietly ask the server to tell her it is out of stock next time. As dusk deepens outside the window, she looks around the dining room, suddenly lost—unaware of where she is or where home lies. Yet, even as logic fades against the evening fatigue, her nervous system remains remarkably tuned to the warm, steady cadence of a reassuring voice, settling as I speak to her.
-
-
-And then comes the return to her apartment, where the strangest, most beautiful truth of Alzheimer’s reveals itself. The same mind that forgot my face in the morning, the same hands that struggled with a fork at dusk, step through the front door and move with absolute, flawless precision. Without a moment’s hesitation or prompting, she carries her wet umbrella to the tub and sets her damp shoes neatly by the door.
-
-
-There is no conscious thought required, no short-term memory called upon. It is pure procedural habit—a quiet baseline of identity, manners, and order laid down so deep that even the gathering shadows cannot wash it away.
-
-
-It turns out that while the mind may lose its hold on the day, the body remembers its manners, its habits, and the small geography of home. A caregiver’s work is simply to hold the door open, to keep the room warm, and to make sure that when night falls, she feels entirely at peace.
+Caring for someone through these shifts isn't about solving a medical puzzle or passing an examination on Tuesday. It is simply about learning how to share a day, stepping lightly around the small bumps in the road, and holding space for a person whose inner world changes like the afternoon sky.

@@ -1,17 +1,4 @@
 {
-  "heroGreeting": [
-    "bonjour! hola!",
-    "mabuhay!"
-  ],
-  "heroScript": "je suis/soy lexi!",
-  "heroCaption": "JOURNALIST / WEB DESIGNER / CERTIFIED NURSING ASSISTANT",
-  "workHistoryHeading": "Work History",
-  "workHistoryLines": [
-    "8 years in publishing",
-    "10+ years as print journalist.",
-    "10 years as nursing assistant"
-  ],
-  "bio": "I left a modest publishing career in the Philippines where I worked as proofreader, copyeditor, and research manager for different publishing entities before Saipan beckoned, where I worked as a journalist full time. Then I found myself warming up to the healthcare industry as I transitioned into becoming a nursing assistant. And the adventure continues.",
   "skills": [
     {
       "title": "CLINICAL SKILLS",
@@ -30,7 +17,18 @@
       "description": "Shaping a publication's voice, from research and structure to the final published page."
     }
   ],
+  "heroScript": "hi, i'm lexi",
+  "bio": "I left a modest publishing career in the Philippines where I worked as proofreader, copyeditor, and research manager for different publishing entities before Saipan beckoned, where I worked as a journalist full time. Then I found myself warming up to the healthcare industry as I transitioned into becoming a nursing assistant. And the adventure continues.",
+  "heroCaption": "JOURNALIST / WEB DESIGNER / CERTIFIED NURSING ASSISTANT",
   "contactIntro": "What's on your mind? Drop a line whether it's a project inquiry, a thoughtful critique, a job offer, or just to say hi.",
-  "contactPageIntro": "My door is always open. Say hello in any language, pitch a collaboration, or ask a question. I am also actively open to international job offers and fully prepared to relocate. "
-
+  "heroGreeting": [
+    "Availableforhire!"
+  ],
+  "workHistoryLines": [
+    "8 years in publishing",
+    "10+ years as print journalist.",
+    "10 years as nursing assistant"
+  ],
+  "contactPageIntro": "My door is always open. Say hello in any language, pitch a collaboration, or ask a question. I am also actively open to international job offers and fully prepared to relocate. ",
+  "workHistoryHeading": "Work History"
 }

@@ -8,7 +8,7 @@ description: Memories Without an Address is a short reflection on a late-night
   screen.
 image: /img/uploads/oleai1.jpg
 ---
-We were trading messages late last Sunday night—that slow, rhythmic ping-pong across the screen between my apartment and Guam, two former journalists attempting to summarize life in general. Somewhere around midnight, the conversation drifted back north.
+We were trading messages late last Sunday night—that slow, rhythmic ping-pong across the screen between my apartment and Guam, two former Saipan-based journalists attempting to summarize life in general. Somewhere around midnight, the conversation drifted back north.
 
 I typed out a quick confession: *I miss Saipan.*
 

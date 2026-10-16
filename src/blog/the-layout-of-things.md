@@ -20,7 +20,7 @@ Mel brought an architect’s mind to the page. Combining an eye for balance with
 
 On other days, he worked like Le Corbusier, running photo montages across the grid like ribbon windows. Or he became I.M. Pei, using precise geometry, light, and white space to mesmerize our clients.
 
-Software, I realized, was only a small part of the craft. The real work lay in knowing how the pieces fit together—and knowing just how far a boundary could stretch to accommodate a whim. Watching them work day after day quieted the writer in me and woke the artist.
+Software, I realized, was only a small part of the craft. The real work lay in knowing how the pieces fit together—and knowing just how far a boundary could stretch to accommodate a whim. Watching them work day after day muted the writer in me and woke the artist.
 
 When I discovered web design, that artist took off. A persistent patron in my life—a significant other, to whom I owe a deep debt of gratitude—first opened my eyes to the digital world, even enrolling me in design school so I could master the craft.
 

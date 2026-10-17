@@ -8,8 +8,7 @@ description: In nursing coursework, we study dementia through clinical
   heart.
 image: /img/uploads/alzheimers03.jpg
 ---
-My shifts spent alongside a gentle soul burdened by cognitive decline help me parse the four clinical categories of the disease. In nursing textbooks, they sound formal, and even my own memory has a hard time keeping them straight: *amnesia*, *aphasia*, *apraxia*, and *agnosia*. But when we are out together for lunch, sitting across from each other in a diner booth, those four words are suddenly disabused of their medical garb. They are no longer textbook definitions; they are simply the small, human hurdles of an ordinary afternoon
-
+My shifts spent alongside a gentle soul burdened by cognitive decline help me parse the four clinical categories of the disease. In nursing textbooks, they sound formal, and even my own memory has a hard time keeping them straight: *amnesia*, *aphasia*, *apraxia*, and *agnosia*. But when we are out together for lunch, sitting across from each other in a diner booth, those four words are suddenly denuded of their medical garb. They are no longer textbook definitions; they are simply the small, human hurdles of an ordinary afternoon
 
 In the booth, she would worry about her umbrella we used to fend off the rain that day. Despite my repeated replies that it was securely tucked in the tub next to the door, in between sips of her decaf coffee, she would ask like it were the first time. This is the most common experience for those living with Alzheimer's: when memory betrays them. In clinical terms, it is called *amnesia*. But for us caregivers and family members, it is simply *nag-uulyanin*—the persistent forgetfulness of aging.
 

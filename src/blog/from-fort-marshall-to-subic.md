@@ -13,6 +13,8 @@ I watched *Army Wives* from start to finish—all seven seasons—even the fin
 
 Suddenly, I was feeling Claudia Joy’s grief, aching for her daughter Amanda after the bombing of The Hump Bar. Roxy felt like an immediate friend, and I was as invested as she was in Pamela Moran’s life. I rooted for Colonel Joan Burton, longing to see her rise through the ranks. And I felt every bit of Denise’s frustration when Frank resisted her dream of pursuing nursing.
 
+![A scene from Army Wives](/img/uploads/armywives02.jpg "A scene from Army Wives")
+
 Glued to the screen, my mind drifted back to when I was sixteen, staying with my cousin Elizabeth—Ate Beth—in Olongapo City. Her husband was a sailor in the United States Navy, and living near the perimeter meant living on the periphery of that world.
 
 Visiting Ate Beth before college felt like standing on the seam of two worlds. Just across the main gate into Subic Naval Base, the environment shifted. The roads were spotless, drivers observed a strict first-come courtesy, and everything hummed with regulated order.

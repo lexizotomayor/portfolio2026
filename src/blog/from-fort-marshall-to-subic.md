@@ -11,7 +11,7 @@ image: /img/uploads/lexi-jet.jpg
 ---
 I watched *Army Wives* from start to finish—all seven seasons—even the final year when Brooke Shields arrived to fill the void left by Claudia Joy. Like so many ardent followers of the show, I found myself vanishing into their plotlines.
 
-Suddenly, I was feeling Claudia Joy’s grief, aching for her daughter Amanda after the bombing of The Hump Bar.Roxy felt like an immediate friend, and I was as invested as she was in Pamela Moran’s life. I rooted for Colonel Joan Burton, longing to see her rise through the ranks. And I felt every bit of Denise’s frustration when Frank resisted her dream of pursuing nursing.
+Suddenly, I was feeling Claudia Joy’s grief, aching for her daughter Amanda after the bombing of The Hump Bar. Roxy felt like an immediate friend, and I was as invested as she was in Pamela Moran’s life. I rooted for Colonel Joan Burton, longing to see her rise through the ranks. And I felt every bit of Denise’s frustration when Frank resisted her dream of pursuing nursing.
 
 Glued to the screen, my mind drifted back to when I was sixteen, staying with my cousin Elizabeth—Ate Beth—in Olongapo City. Her husband was a sailor in the United States Navy, and living near the perimeter meant living on the periphery of that world.
 
@@ -21,7 +21,7 @@ Lacking a dependent’s ID, I couldn't cross the checkpoint into the commissary
 
 That self-contained world stayed with me long after I left Olongapo.
 
-Looking back, *Army Wives* hit home not because I ever married into the military, but because I had walked its border.Years later, working as a print journalist, that familiar environment returned in full force. The sixteen-year-old stuck outside the gate was suddenly an adult with a press badge, covering joint exercises, attending briefings, and walking the grounds at Pearl Harbor and Andersen Air Force Base. Stepping onto those bases wasn't just an assignment. It propelled me back in time—right back to that table outside Subic Bay, turning broadsheet pages, and watching an orderly world come and go.
+Looking back, *Army Wives* hit home not because I ever married into the military, but because I had walked its border.Years later, working as a print journalist, that familiar environment returned in full force. The sixteen-year-old stuck outside the gate was suddenly an adult with a press badge, covering joint exercises, attending briefings, and walking the grounds at Pearl Harbor and Andersen Air Force Base. Stepping onto those bases wasn't just an assignment. It propelled me back in time—right back to that table at a restaurant-bar on the base, turning broadsheet pages, and watching an orderly world come and go.
 
 The show unlocked a cache of memories, sending me hopscotching through space and time across different versions of myself: the student outside the fence, the reporter with a notebook, the caregiver listening in a quiet room, the lover who has known longing.
 

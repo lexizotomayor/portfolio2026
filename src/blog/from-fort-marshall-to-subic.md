@@ -26,3 +26,7 @@ Looking back, *Army Wives* hit home not because I ever married into the milita
 The show unlocked a cache of memories, sending me hopscotching through space and time across different versions of myself: the student outside the fence, the reporter with a notebook, the caregiver listening in a quiet room, the lover who has known longing.
 
 Through Hans-Georg Gadamer’s concept of the *fusion of horizons*, those past selves merge with the present. The distance between observer and insider dissolves. It allows me to stand in the shoes of military dependents and veterans,wearing a persona rooted not in distance, but in active listening, understanding, and grounded empathy—a steady,warm shoulder for them to lean on.
+
+![Ospreys fly on Tinian during a Marine expeditionary exercise. ](/img/uploads/20121210-m-bc491-050.jpg "Ospreys fly on Tinian during a Marine expeditionary exercise. ")
+
+![Fighter jets at the Tinian airport terminal. ](/img/uploads/avz-jets-tinian.jpeg "Fighter jets at the Tinian airport terminal. ")

@@ -2,10 +2,10 @@
 title: The Nuns At Teachers' Camp
 date: 2026-11-16T21:54:00.000-05:00
 description: "Looking at a wartime snapshot of two nuns carrying their
-  belongings past bombed-out buildings in Baguio, I am pulled back to 1997: a
-  sudden weekend trip north with my friends Joey and Nora to escape our textbook
-  desks in Quezon City, an afternoon nap at Teachers Camp, and a gentle knock at
-  the door that blurred a vivid dream with the lingering past."
+  belongings uphill, I am pulled back to 1997: a sudden weekend trip north with
+  my friends Joey and Nora to escape our textbook desks in Quezon City, an
+  afternoon nap at Teachers Camp, and a gentle knock at the door that blurred a
+  vivid dream with the lingering past."
 image: /img/uploads/nuns.jpg
 ---
 In the photograph, two nuns in dark habits, one in a white veil and the other in black, hurry down a dirt road in Baguio alongside a helmeted soldier, their arms weighed down with heavy sacks and bundles. Behind them, tall pine trees stand stripped and splintered beside the ruined shell of a building. Looking at that creased sepia print on my desk, I was back in 1997.

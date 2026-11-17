@@ -8,7 +8,7 @@ description: "Looking at a wartime snapshot of two nuns carrying their
   vivid dream with the lingering past."
 image: /img/uploads/nuns.jpg
 ---
-In the photograph, two nuns in dark habits, one in a white veil and the other in black, hurry down a dirt road in Baguio alongside a helmeted soldier, their arms weighed down with heavy sacks and bundles. Behind them, tall pine trees stand stripped and splintered beside the ruined shell of a building. Looking at that creased sepia print on my desk, I was back in 1997.
+In the photograph, two nuns in dark habits, hurry down a dirt road in Baguio alongside a helmeted soldier, their arms weighed down with heavy sacks and bundles. Behind them, tall pine trees stand stripped and splintered beside the ruined shell of a building. Looking at that creased sepia print on my desk, I was back in 1997.
 
 Back then, my friends Joey and Nora and I were in the thick of putting together experimental high school textbooks in math and science translated into Filipino. Tired from long days at our desks in Quezon City and hungry for air that did not smell like exhaust and damp paper, we acted like the Three Stooges on a whim, threw a few things into overnight bags,and caught a bus north.
 

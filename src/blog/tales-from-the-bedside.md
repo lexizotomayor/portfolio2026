@@ -3,8 +3,8 @@ title: Tales from the Bedside
 date: 2026-08-19T00:03:00.000-04:00
 description: The writer takes you to a warm, sharp-witted reflection on stepping
   away from the newsroom to become a private caregiver, where listening to the
-  extraordinary lives, quiet resilience, and lasting wisdom of aging clients
-  reveals that the finest stories are found right at the bedside.
+  extraordinary lives, remarkable resilience, and lasting wisdom of aging
+  clients reveals that the finest stories are found right at the bedside.
 image: /img/uploads/elders.png
 ---
 As a young reporter, I was endlessly drawn to World War II veterans. I chased their tales of forgotten airfields and faded medals, naively thinking I was simply filing copy for the morning edition. In truth, those old stories were quietly setting my trajectory. They led me straight from the newsroom to the bedside.

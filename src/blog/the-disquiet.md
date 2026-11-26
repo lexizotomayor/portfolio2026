@@ -2,8 +2,8 @@
 title: The Disquiet
 date: 2026-08-26T00:40:00.000-04:00
 description: The ache of loss never leaves us entirely, but by leaning on old
-  prayers, quiet wisdom, and a deliberate reason to keep going, we learn to walk
-  softly through the changed landscape.
+  prayers, age-old wisdom, and a deliberate reason to keep going, we learn to
+  walk softly through the changed landscape.
 image: /img/uploads/gemini_generated_image_ugpv6pugpv6pugpv.jpg
 ---
 The death of someone you love is not a wound that heals; it is a landscape you learn to live in.

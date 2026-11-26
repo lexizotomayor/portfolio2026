@@ -1,9 +1,9 @@
 ---
 title: The Layout of Things
 date: 2026-08-27T16:06:00.000-04:00
-description: In this essay, the writer shares her discovery of the quiet sorcery
-  of graphic design in a print shop, and how a newfound love for grids, fonts,
-  and layouts reshaped her path.
+description: In this essay, the writer shares her discovery of the spellbinding
+  sorcery of graphic design in a print shop, and how a newfound love for grids,
+  fonts, and layouts reshaped her path.
 image: /img/uploads/design-me-landscape.jpg
 ---
 A few smart friends had taken to blogging anonymously about island politics. Being sharp, they pulled no punches, dissecting the daily news with ease. I felt inferior in their shadow. I couldn’t imagine joining them; even behind a pseudonym, I would have been second fiddle to their natural brilliance.

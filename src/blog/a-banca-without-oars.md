@@ -1,5 +1,5 @@
 ---
-title: A Banca without Oars
+title: A Banca Without Oars
 date: 2026-11-26T16:50:00.000-05:00
 description: We don't have to be close friends for someone's death to leave us
   unmoored. On an island, losing even a familiar face from the same era means

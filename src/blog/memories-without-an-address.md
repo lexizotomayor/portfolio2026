@@ -3,9 +3,8 @@ title: Memories Without an Address
 date: 2026-08-18T23:26:00.000-04:00
 description: Memories Without an Address is a short reflection on a late-night
   WhatsApp chat between two former reporters looking back at Saipan. It’s a
-  story about vanished hangouts, scattered friends, and the quiet realization
-  that we can’t buy a return ticket to a past that now lives only on a phone
-  screen.
+  story about vanished hangouts, scattered friends, and the realization that we
+  can’t buy a return ticket to a past that now lives only on a phone screen.
 image: /img/uploads/oleai1.jpg
 ---
 We were trading messages late last Sunday night—that slow, rhythmic ping-pong across the screen between my apartment and Guam, two former Saipan-based journalists attempting to summarize life in general. Somewhere around midnight, the conversation drifted back north.
